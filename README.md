@@ -2,7 +2,16 @@
 
 Lexis is an AI study workspace for turning trusted source material into grounded understanding. Upload PDFs, notes, documents, markdown, slides, or image-based material, then ask questions and generate summaries, flashcards, quizzes, and key concepts without losing sight of the source.
 
-The project is inspired by the source-first study flow of NotebookLM, but the product direction is warmer, calmer, and more glass-like: a focused workspace where chat, sources, and study tools live side by side instead of becoming scattered across tabs.
+## Project Demo
+
+Watch the project walkthrough here:
+
+
+https://github.com/user-attachments/assets/e378b62f-16c5-4b8f-b825-c3fde6968d84
+
+
+
+
 
 ## Mission
 
